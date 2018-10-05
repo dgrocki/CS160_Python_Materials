@@ -1,1 +1,1 @@
-# CS160_Python_Materials
+Materials for CS16x intro classes
